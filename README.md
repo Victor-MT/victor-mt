@@ -37,12 +37,4 @@ I’m a developer focused on **automation, backend systems, and data-driven solu
 
 ---
 
-## ⚡ Fun Facts
-
-- 🚀 Reduced a process from ~5 minutes to 11 seconds using automation
-- 📊 Passionate about turning raw data into actionable insights
-- 🛠️ Always building something new (automation, APIs, or data tools)
-
----
-
 ⭐ Feel free to explore my repositories and connect!
