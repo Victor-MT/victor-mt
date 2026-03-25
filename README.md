@@ -12,35 +12,6 @@ I’m a developer focused on **automation, backend systems, and data-driven solu
 
 💡 I enjoy solving complex problems and transforming them into simple, efficient solutions.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend & Data
-- Python (FastAPI, Pandas)
-- REST APIs
-- PostgreSQL / MongoDB
-- ETL Pipelines
-
-### 🌐 Frontend
-- Vue.js (Vuetify)
-- JavaScript / HTML / CSS
-
-### ⚙️ Automation & DevOps
-- Docker / Docker Compose
-- n8n / Power Automate
-- Git / CI-CD
-- Selenium (RPA)
-
-### 📊 Data & BI
-- Power BI
-- Metabase
-
----
-
-## 📌 Featured Projects
-
-
 ## 📈 What I Bring
 
 - ⚡ Strong automation mindset (replace manual with scalable systems)
