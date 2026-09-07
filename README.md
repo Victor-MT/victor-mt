@@ -20,16 +20,6 @@ I’m a developer focused on **automation, backend systems, and data-driven solu
 - 🔧 Clean and maintainable code (SOLID, best practices)
 - 🚀 Fast learner with ability to adapt to new technologies
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-mt&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-mt&layout=compact)
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/martins-torres](https://www.linkedin.com/in/martins-torres/)
